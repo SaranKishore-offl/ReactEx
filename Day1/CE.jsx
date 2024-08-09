@@ -7,7 +7,7 @@ function App() {
    let userDefault = undefined;
    let responseValue = null;
    let oldAge=age;
-   age = 25;
+   age = 19;
   const sendAlert =()=>{
     alert("Message from javascript Alert");
     console.log("Message for the developer");
